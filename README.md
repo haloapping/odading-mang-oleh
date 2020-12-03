@@ -1,6 +1,6 @@
 # odading-mang-oleh
 
-Tugas besar matakuliah Probabilitas dan Statistika II dengan topik Logistic Regression dan Principal Compoenent Analysisi (PCA) menggunakan dataset airline passenger satisfaction yang didapatkan dari kaggle.
+Tugas besar matakuliah Probabilitas dan Statistika II dengan topik Logistic Regression dan Principal Compoenent Analysisi (PCA) menggunakan dataset airline passenger satisfaction yang didapatkan dari kaggle https://www.kaggle.com/johndddddd/customer-satisfaction.
 
 Terimakasih kepada:
 - Tuhan Yang Mahasa Esa yang memberikan kemampuan dan kesehatan untuk menyelesaikan tugas besar ini.
